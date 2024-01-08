@@ -7,6 +7,6 @@ The Classifier was able to attain excellent accuracy which was analysed using co
 
 Hyperparameter optimisation of the model was attempted using GridSearch and Randomised GridSearch.
 
-The model was saved as a pkl file was was callaable for prediction.
+The model was saved as a pkl file .
 
 The pkl file can be deployed into production environment for use in a live environment.
